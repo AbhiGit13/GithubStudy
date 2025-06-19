@@ -8,7 +8,8 @@ public class MyTest {
 	{
 		System.out.println("Name is Tony Stark");
 		String s="Tony is my boy";
-		
+		String city="NY";
+		String id="In535";
 	}
 	
 }
