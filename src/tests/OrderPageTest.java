@@ -7,5 +7,6 @@ public class OrderPageTest {
 	public  void orderTest()
 	{
 		System.out.println("true");
+		System.out.println("Changes done");
 	}
 }
