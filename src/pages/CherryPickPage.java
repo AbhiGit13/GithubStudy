@@ -10,6 +10,8 @@ public class CherryPickPage {
 		int a=10;
 		//687276d
 		//2efaa15
+		//23adda7
+		int v=10;
 	}
 
 	public void test() {
