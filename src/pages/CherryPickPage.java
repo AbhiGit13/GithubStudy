@@ -9,6 +9,11 @@ public class CherryPickPage {
 		String s="Tony cherry picked";
 		int a=10;
 		//687276d
+		//2efaa15
 	}
 
+	public void test() {
+		System.out.println("test feature");
+	}
+	
 }
