@@ -13,5 +13,6 @@ public class CartPage {
 		String nameD1="cart dev 1";
 		System.out.println(nameD1);
 //>>>>>>> Stashed changes
+		String b2="anama";
 	}
 }
